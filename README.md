@@ -4,7 +4,7 @@ DSA (Data Structures and Algorithms)
 
 ### Problema 1 (Algoritmo Ordenamiento)
 ##### Link video: 
-##### Link submission: 
+##### Link submission: https://leetcode.com/problems/buy-two-chocolates/submissions/1847654989
 
 ### Problema 2 (Estructura lineal)
 ##### Link video: 
