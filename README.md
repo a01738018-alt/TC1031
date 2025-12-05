@@ -3,16 +3,16 @@
 DSA (Data Structures and Algorithms)
 
 ### Problema 1 (Algoritmo Ordenamiento)
-##### Link video: 
-##### Link submission: https://leetcode.com/problems/buy-two-chocolates/submissions/1847654989
+##### Link video: https://youtu.be/uTtlI4nVlqI
+##### Link submission: https://leetcode.com/problems/buy-two-chocolates/submissions/1847867815
 
 ### Problema 2 (Estructura lineal)
-##### Link video: 
-##### Link submission: 
+##### Link video: https://youtu.be/fHiSo1eju5A
+##### Link submission: https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1847876863
 
 ### Problema 3 (Estructura no lineal)
-##### Link video: 
-##### Link submission: 
+##### Link video: https://youtu.be/fTgGN63rrhs
+##### Link submission: https://leetcode.com/problems/two-sum/submissions/1847881280
 
 
 # Proyecto: Simulador de Base de Datos de NBA
